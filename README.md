@@ -1,3 +1,5 @@
+![e05c4975-c92b-484d-9e3f-07c8e1f146ee](https://github.com/user-attachments/assets/3cf52a0c-24f5-42c5-bb4e-79891d512dab)
+
 🔬 Diabetes Prediction using Machine Learning
 A mini project developed as part of the curriculum at Bangalore Technological Institute, under the Department of Artificial Intelligence & Machine Learning. This web-based application helps predict whether a person is likely to have diabetes based on medical input parameters using a trained machine learning model.
 
@@ -30,8 +32,7 @@ Insulin
 BMI
 Diabetes Pedigree Function
 Age
-Model Accuracy: ~85% (can vary based on final preprocessing and model tunin![e05c4975-c92b-484d-9e3f-07c8e1f146ee](https://github.com/user-attachments/assets/3cf52a0c-24f5-42c5-bb4e-79891d512dab)
-g)
+Model Accuracy: ~85% (can vary based on final preprocessing and model tuning)
 The model is trained, saved using pickle, and loaded by the Flask backend for real-time prediction.
 ⚙️ Tech Stack
 Frontend: HTML, CSS (custom-styled with background image), Bootstrap (optional)

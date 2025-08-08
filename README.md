@@ -10,10 +10,10 @@ HOD: Dr. G. Gayatri Tanuja, Head of Department – AI & ML
 
 👨‍💻 Team Members
 Name	                                           USN
-Eshwar Pawan Peddi	                          1BH22AI014
-G Udhbav	                                    1BH22AI016
-Sabari Govindhan	                            1BH22AI038
-Tejas Halemani	                              1BH22AI054
+Eshwar Pawan Peddi	                          1BH22AI014||
+G Udhbav	                                    1BH22AI016||
+Sabari Govindhan	                            1BH22AI038||
+Tejas Halemani	                              1BH22AI054||
 
 💡 Project Overview
 This project aims to predict diabetes using a machine learning model trained on a medical dataset. The user inputs several health-related parameters, and the model returns a prediction indicating the likelihood of diabetes.

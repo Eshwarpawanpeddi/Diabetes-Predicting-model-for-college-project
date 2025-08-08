@@ -38,4 +38,3 @@ Frontend: HTML, CSS (custom-styled with background image), Bootstrap (optional)
 Backend: Python Flask
 ML Libraries: Scikit-learn, Pandas, NumPy, pickle
 Deployment Options: Can be run locally or deployed.
-

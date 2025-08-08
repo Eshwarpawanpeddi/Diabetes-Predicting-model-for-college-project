@@ -30,7 +30,8 @@ Insulin
 BMI
 Diabetes Pedigree Function
 Age
-Model Accuracy: ~85% (can vary based on final preprocessing and model tuning)
+Model Accuracy: ~85% (can vary based on final preprocessing and model tunin![e05c4975-c92b-484d-9e3f-07c8e1f146ee](https://github.com/user-attachments/assets/3cf52a0c-24f5-42c5-bb4e-79891d512dab)
+g)
 The model is trained, saved using joblib, and loaded by the Flask backend for real-time prediction.
 ⚙️ Tech Stack
 Frontend: HTML, CSS (custom-styled with background image), Bootstrap (optional)
